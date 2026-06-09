@@ -1,0 +1,7 @@
+{
+  "name": "ActiveWindowRPC",
+  "description": "Shows your active window as Discord RPC",
+  "authors": [{ "name": "you", "id": "0" }],
+  "main": "index.js",
+  "hash": ""
+}
