@@ -2,5 +2,8 @@
   "name": "ActiveWindowRPC",
   "description": "Shows your active window as Discord RPC",
   "authors": [{ "name": "moonsyn", "id": "1262083772447457301" }],
-  "main": "index.js"
+  "main": "src/index.ts",
+  "vendetta": {
+    "icon": "ic_wifi_24px"
+  }
 }
